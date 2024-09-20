@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Programação',
-    '',Oque é Java script?
+    'O que é Java script?',
     ' é uma linguagem de programação que permite a você implementar itens complexos em páginas web'
 )
 
