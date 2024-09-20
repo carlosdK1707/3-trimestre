@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Programação',
+    '',Oque é Java script?
+    ' é uma linguagem de programação que permite a você implementar itens complexos em páginas web'
 )
 
 criaCartao(
@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Programação',
+    'Oque é uma linguagem de projeto na programação?',
+    ' criar programas por meio de um conjunto da mescla de palavras-chave, símbolos, termos e comandos'
 )
